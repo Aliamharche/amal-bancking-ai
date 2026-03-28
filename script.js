@@ -150,9 +150,9 @@ document.addEventListener("DOMContentLoaded", () => {
     // Initial greeting when page loads
     setTimeout(() => {
         addMessage(
-            "Bonjour ! Bienvenue sur l'espace d'Amal Assistant, votre agent virtuel bancaire.<br>Comment puis-je vous aider aujourd'hui ?<br>1. <strong>Consulter mon solde</strong><br>2. <strong>Faire un virement</strong><br>3. <strong>Mot de passe oublié</strong>",
+            "Bonjour ! Bienvenue sur l'espace Barid Bank Assistant, votre agent virtuel bancaire.<br>Comment puis-je vous aider aujourd'hui ?<br>1. <strong>Consulter mon solde</strong><br>2. <strong>Faire un virement</strong><br>3. <strong>Mot de passe oublié</strong>",
             false,
-            "Assistant Al Barid"
+            "Assistant Barid Bank"
         );
     }, 600);
 });
